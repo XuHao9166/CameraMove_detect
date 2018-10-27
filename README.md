@@ -15,4 +15,4 @@ The algorithm mainly includes the following steps:
 3. Extract the motion angle by image processing
 4. Determine the threshold for camera movement to determine.
 
-If you feel helpful to you, help me give me a star, thank you
+If you feel helpful to you, please give me a star, thank you
