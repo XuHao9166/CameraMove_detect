@@ -7,9 +7,12 @@ Based on the phase metric, including cropping, splicing, and calculating the pha
 3、通过图像处理的方法将运动角度提取出来
 4、设定相机移动的判定阈值进行判断。
 
+如果觉得对您有点帮助，希望您给我一颗星，谢谢
 
 The algorithm mainly includes the following steps:
 1. Re-splicing each frame of the current video out of four areas with relatively few people's motions
 2. Calculate the current phase correlation value and the angle of motion for the new image generated after splicing
 3. Extract the motion angle by image processing
 4. Determine the threshold for camera movement to determine.
+
+If you feel helpful to you, help me give me a star, thank you
